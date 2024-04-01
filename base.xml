@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XmlCompilation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>a9782dec-c0fb-479e-8b59-a83abd8c1bae</Id>
+  <MediaPath/>
+  <Title>base</Title>
+  <Artist/>
+  <Album/>
+  <Tracks>
+    <Track>
+      <Id>7b5812e8-6dd4-45af-bf29-fd2f28b07c80</Id>
+      <Artist>Grabbitz</Artist>
+      <PreRoll/>
+      <PlayheadPosition/>
+      <PlaybackRate>1</PlaybackRate>
+      <Name>Die For You</Name>
+      <Album/>
+      <Url>http://localhost:8000/media/Die%20For%20You-Grabbitz.m4a</Url>
+      <Meter/>
+      <UseMeasureNumbers/>
+      <Volume>0.5</Volume>
+      <Cues/>
+    </Track>
+    <Track>
+      <Id>336af688-e8e5-4e0f-a9df-09bd525e409f</Id>
+      <Artist>glichery</Artist>
+      <PreRoll/>
+      <PlayheadPosition/>
+      <PlaybackRate>1</PlaybackRate>
+      <Name>TIRED OF PROBLEMS</Name>
+      <Album/>
+      <Url>http://localhost:8000/media/TIRED%20OF%20PROBLEMS-glichery.mp3</Url>
+      <Meter/>
+      <UseMeasureNumbers/>
+      <Volume>0.5</Volume>
+      <Cues/>
+    </Track>
+    <Track>
+      <Id>ce28f5a9-c18e-4b1c-ad17-002c9c47c21d</Id>
+      <Artist/>
+      <PreRoll/>
+      <PlayheadPosition/>
+      <PlaybackRate>1</PlaybackRate>
+      <Name>Tremble Original Mix </Name>
+      <Album/>
+      <Url>http://localhost:8000/media/Tremble%28Original%20Mix%29.m4a</Url>
+      <Meter/>
+      <UseMeasureNumbers/>
+      <Volume>0.5</Volume>
+      <Cues/>
+    </Track>
+    <Track>
+      <Id>c857dc72-7b95-4e7e-b3e6-2370ee663972</Id>
+      <Artist>KOKIA</Artist>
+      <PreRoll/>
+      <PlayheadPosition/>
+      <PlaybackRate>1</PlaybackRate>
+      <Name>ありがとう…</Name>
+      <Album/>
+      <Url>http://localhost:8000/media/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E2%80%A6%20-%20KOKIA.m4a</Url>
+      <Meter/>
+      <UseMeasureNumbers/>
+      <Volume>0.5</Volume>
+      <Cues/>
+    </Track>
+    <Track>
+      <Id>43b22055-a150-4b95-84b2-0af3b8084f5e</Id>
+      <Artist>一颗狼星</Artist>
+      <PreRoll/>
+      <PlayheadPosition>5.951443</PlayheadPosition>
+      <PlaybackRate>1</PlaybackRate>
+      <Name>海市蜃楼 女声</Name>
+      <Album/>
+      <Url>http://localhost:8000/media/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20%28%E5%A5%B3%E5%A3%B0%29%20-%20%E4%B8%80%E9%A2%97%E7%8B%BC%E6%98%9F.m4a</Url>
+      <Meter/>
+      <UseMeasureNumbers/>
+      <Volume>0.5</Volume>
+      <Cues/>
+    </Track>
+  </Tracks>
+  <PlaybackMode>PlayTrack</PlaybackMode>
+</XmlCompilation>
