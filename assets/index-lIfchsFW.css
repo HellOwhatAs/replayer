@@ -1,9 +1,5 @@
 .stage-mark {
-    z-index: 1;
-    position: absolute;
-    top: 0;
-    right: 3rem;
-    font-size: 200%
+    display: none;
 }
 
 .player-timeline .player-progress[data-v-9af36c0e] {
